@@ -1,0 +1,20 @@
+<resources>
+    <!-- Theme Preference -->
+    <string-array name="theme_entries">
+        <item>Оранжевая</item>
+        <item>Красная</item>
+        <item>Фиолетовая</item>
+        <item>Бирюзовая</item>
+        <item>Зелёная</item>
+        <item>Жёлтая</item>
+    </string-array>
+
+    <string-array name="theme_values">
+        <item>ThemeOrange</item>
+        <item>ThemeRed</item>
+        <item>ThemePurple</item>
+        <item>ThemeTeal</item>
+        <item>ThemeGreen</item>
+        <item>ThemeYellow</item>
+    </string-array>
+</resources>

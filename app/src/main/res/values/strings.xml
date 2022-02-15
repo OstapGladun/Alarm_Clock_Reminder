@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="app_name">Reminder</string>
+    <string name="hint">Добавьте напоминание кнопкой \'+\' внизу</string>
+    <string name="settings">Настройки</string>
+    <string name="set_time_hint">Установите время для напоминания</string>
+    <string name="title_activity_settings">Настройки</string>
+
+    <!-- Preferences -->
+    <string name="theme_title">Цветовая тема приложения</string>
+
+    <string name="submit">Подтвердить</string>
+    <string name="text_title_hint">Введите заголовок и текст напоминания</string>
+    <string name="cancel">Отмена</string>
+    <string name="text_hint">Текст напоминания</string>
+    <string name="title_hint">Загловок напоминания</string>
+    <string name="time_hint">Нажмите чтобы выбрать время для напоминания</string>
+    <string name="label_add_note">Создание заметки</string>
+    <string name="set_time_warning">Установите время прежде чем сохранить напоминание</string>
+    <string name="default_title">Безымянная заметка</string>
+</resources>
