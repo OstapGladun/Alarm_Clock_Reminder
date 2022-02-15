@@ -26,7 +26,7 @@ import com.google.android.material.floatingactionbutton.FloatingActionButton;
 
 import java.text.DateFormat;
 import java.util.Calendar;
-
+//comment
 public class AddNoteActivity extends AppCompatActivity implements TimePickerDialog.OnTimeSetListener{
 
     private FloatingActionButton setAlarmButton;
